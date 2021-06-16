@@ -67,6 +67,6 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 ## Uploading Images
 
  <figure>
-  <img src="589126.jpg" alt="Cityscape" style="width:100%">
+  <img src="argentina.jpg" alt="Cityscape" style="width:100%">
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
 </figure>
