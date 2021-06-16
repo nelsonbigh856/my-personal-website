@@ -57,14 +57,26 @@ My favourite gelato flavours:
 
 Let's bake a chocolate cake!
 
-- Flour
-- Sugar
-- Cocoa Powder
-- Milk (dairy or soy)
-- Buttercream frosting
-  - Butter
-  - Vanilla Extract
-  - Espresso Powder
+* Flour
+* Sugar
+* Cocoa Powder
+* Milk (dairy or soy)
+* Buttercream frosting
+
+  * Butter
+  * Vanilla Extract
+  * Espresso Powder
+* Raspberries
+
+## Checklists
+
+[x] Hang out the laundry
+[ ] Wash the dishes
+[ ] Mobius quiz wk3
+  [ ] Algebra
+  [x] Calculus
+[ ] 30min jog
+
 
 ## Code
 
