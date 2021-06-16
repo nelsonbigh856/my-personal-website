@@ -59,7 +59,7 @@ Let's make a smoothie!
 > You miss 100 percent of the shots you never take.
 
 ## Highlighted quote
-I like to be in the {{<h1>}}spotlight{{</h1>}}.
+I like to be in the {{< h1 >}}spotlight{{< /h1 >}}.
 
 ## Code
 
