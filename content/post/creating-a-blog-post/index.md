@@ -27,12 +27,11 @@ My favourite gelato flavours:
 
 Let's make a smoothie!
 
-- Milk
-- Honey
-- Strawberries
-- Blueberries
-- Weetbix
-
+* Milk
+* Honey
+* Strawberries
+* Blueberries
+* Weetbix
 
 ## Code
 
@@ -40,7 +39,7 @@ Include `code snippets` in your sentences.
 
 You can also write code blocks with syntax highlighting!
 
-```C
+```c
 #include <stdio.h>
 
 int main(void) {
