@@ -2,31 +2,23 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ""
     date_start: 2021-01-25
-    description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    description: "Came 8th in a university-level competitive programming competition amongst 80 international teams."
+    organization: International Collegiate Programming Contest
+    organization_url: https://icpc.global
+    title: ICPC 2020 Medalist
     url: ""
-  - certificate_url: https://www.edx.org
+  - certificate_url: 
     date_end: ""
     date_start: 2021-01-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
-    description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
-    url: ""
-widget_id: achievementss
+    description: Proposed a new bridge design.
+    organization: UNSW Engineering Society
+    organization_url: https://unswengsoc.com
+    title: 2nd Place: EngSoc Case Competition
+    url: 
+widget_id: achievements
 headless: true
 weight: 50
 title: Achievements
