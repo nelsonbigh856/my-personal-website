@@ -70,12 +70,12 @@ Let's bake a chocolate cake!
 
 ## Checklists
 
-\[x] Hang out the laundry
-\[ ] Wash the dishes
-\[ ] Mobius quiz wk3
-  \[ ] Algebra
-  \[x] Calculus
-\[ ] 30min jog
+\- \[x] Hang out the laundry
+- \[ ] Wash the dishes
+- \[ ] Mobius quiz wk3
+  - \[ ] Algebra
+  - \[x] Calculus
+- \[ ] 30min jog
 
 <!--StartFragment-->
 
