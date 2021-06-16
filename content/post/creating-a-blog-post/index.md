@@ -13,7 +13,7 @@ tags:
 categories:
   - Category 1
 image:
-  filename: 589126.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Your blog posts will look stunning, just like this image :D
