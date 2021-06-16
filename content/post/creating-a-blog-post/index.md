@@ -70,7 +70,7 @@ Let's bake a chocolate cake!
 
 ## Links
 
-[I'm an external link](https://www.google.com)
+[I'm an external link](https://www.google.com)  
 [Another post]({{< relref "/getting-started" >}})
 
 ## Code
