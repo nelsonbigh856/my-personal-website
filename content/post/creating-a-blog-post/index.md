@@ -105,3 +105,5 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
 </figure>
 
+{{< figure src="argentina.jpg" caption="test" >}} 
+
