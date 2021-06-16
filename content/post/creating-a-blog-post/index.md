@@ -19,13 +19,23 @@ image:
   caption: Your blog posts will look stunning, just like this image :D
   alt_text: An image of a cityscape at night
 ---
-![]()
-
 The Wowchemy CMS has many features to style your website articles.
 
-## Formatting text
+# Heading 1
 
-Place emphasis on your text with **bold** or *italic*s.
+## Heading 2
+
+### Heading 3
+
+- - -
+
+## Emphasis
+
+Italics with _underscores_
+
+Bold with **asterisks**
+
+Strikethrough with ~~double tilde~~
 
 ## Lists
 
@@ -34,7 +44,7 @@ My favourite gelato flavours:
 1. Macadamia Crunch
 2. Cookies and Cream
 3. Rum and Raisin
-4. Matcha
+4. Creme Brulee
 5. Coconut and Lychee
 
 Let's make a smoothie!
@@ -44,6 +54,12 @@ Let's make a smoothie!
 * Strawberries
 * Blueberries
 * Weetbix
+
+## Blockquote
+> You miss 100 percent of the shots you never take.
+
+## Highlighted quote
+I like to be in the {{<h1>}}spotlight{{</h1>}}.
 
 ## Code
 
