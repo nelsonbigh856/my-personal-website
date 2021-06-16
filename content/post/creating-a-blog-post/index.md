@@ -100,5 +100,13 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 ## Uploading Images
 
-{{< figure src="argentina.jpg" caption="Can't wait for travel restrictions to be lifted." >}} 
+{{< figure src="argentina.jpg" caption="Can't wait for travel restrictions to be lifted." >}}
+
+## Table
+
+| Engineering Discipline | Average Salary           | 
+| -----------------------| ------------------------ |
+| Mechanical             | $72,900                  |
+| Electrical             | $76,186                  |
+| Civil                  | $73,909                  |
 
