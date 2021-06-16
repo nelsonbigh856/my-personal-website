@@ -32,5 +32,5 @@ weight: 50
 title: Acheivements
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
