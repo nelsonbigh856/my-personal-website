@@ -4,7 +4,7 @@ subtitle: Writing a blog pot in Wowchemy CMS is easy!
 date: 2021-06-16T05:58:20.813Z
 summary: The Wowchemy CMS has many features for styling your web articles
   including text emphasis, LaTeX math, code snippets and embedded images.
-draft: false
+draft: true
 featured: false
 authors:
   - admin
