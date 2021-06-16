@@ -70,3 +70,5 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
   <img src="argentina.jpg" alt="Cityscape" style="width:100%">
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
 </figure>
+
+![pic of argentinian mountain](argentina.jpg "these mountains are breathtaking!")
