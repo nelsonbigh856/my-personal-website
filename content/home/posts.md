@@ -19,5 +19,5 @@ content:
   order: desc
 widget_id: posts
 design:
-  view: 2
+  view: 5
 ---
