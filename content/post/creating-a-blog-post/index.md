@@ -25,12 +25,9 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 ## Uploading Images
 
-![Cityscape](https://raw.githubusercontent.com/nelsonbigh856/my-personal-website/master/content/post/creating-a-blog-post/589126.jpg)
-"LaTeX math is beautiful, like this image <3"
-
  <figure>
   <img src="589126.jpg" alt="Cityscape" style="width:100%">
   <figcaption>LaTeX math is beautiful, like this image <3</figcaption>
 </figure> 
 
-{{< figure src="https://raw.githubusercontent.com/nelsonbigh856/my-personal-website/master/content/post/creating-a-blog-post/589126.jpg" title="Wowchemy allows you to link an image from your github repository." >}}
+< figure src="https://raw.githubusercontent.com/nelsonbigh856/my-personal-website/master/content/post/creating-a-blog-post/589126.jpg" title="Wowchemy allows you to link an image from your github repository." >
