@@ -35,7 +35,7 @@ image:
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 ## LaTeX Math
-Quadratic formula: $x = \frac{-b//pm\sqrt(b^2-4ac)}{2a}$
+Quadratic formula: $x = \frac{-b\pm\sqrt(b^2-4ac)}{2a}$
 
 ## Get Started
 
