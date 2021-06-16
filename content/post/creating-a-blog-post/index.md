@@ -25,6 +25,4 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 ## Uploading Images
 
-
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://github.com/nelsonbigh856/my-personal-website/blob/1d83eaad1c14b16776d9e99a96e9d9bc8a316ae7/content/post/creating-a-blog-post/589126.jpg" title="Wowchemy allows you to link an image from your github repository." >}}
