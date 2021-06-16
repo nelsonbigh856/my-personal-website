@@ -10,10 +10,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Hardware projects
+      tag: hardware project
+    - name: Software projects
+      tag: software project
 widget_id: projects
 design:
   columns: "2"
