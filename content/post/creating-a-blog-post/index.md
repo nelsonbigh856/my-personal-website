@@ -104,7 +104,7 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 ## Table
 
-| Engineering Discipline | Average Salary           | 
+| Engineering Discipline | Average Salary (AUD)       | 
 | -----------------------| ------------------------ |
 | Mechanical             | $72,900                  |
 | Electrical             | $76,186                  |
