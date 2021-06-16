@@ -10,14 +10,14 @@ item:
     organization_url: https://icpc.global
     title: ICPC 2020 Medalist
     url: ""
-#  - certificate_url: 
-#    date_end: ""
-#    date_start: 2021-01-01
-#    description: Proposed a new bridge design.
-#    organization: UNSW Engineering Society
-#    organization_url: https://unswengsoc.com
-#    title: 2nd Place: EngSoc Case Competition
-#    url: 
+  - certificate_url: 
+    date_end: ""
+    date_start: 2021-01-01
+    description: Proposed a new bridge design.
+    organization: UNSW Engineering Society
+    organization_url: https://unswengsoc.com
+    title: 2nd Place: EngSoc Case Competition
+    url: 
 widget_id: achievements
 headless: true
 weight: 50
