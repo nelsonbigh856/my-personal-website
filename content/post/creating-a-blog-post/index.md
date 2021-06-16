@@ -50,7 +50,7 @@ int main(void) {
 
 ## LaTeX Math
 
-Quadratic formula for $ax^2+bx+x=0$:
+Quadratic formula for $ax^2+bx+c=0$:
 
 $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
