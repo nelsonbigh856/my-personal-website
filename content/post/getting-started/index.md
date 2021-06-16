@@ -24,7 +24,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: hugues-de-buyer-mimeure-lqpechtljuo-unsplash.jpg
+  filename: featured.jpg
 ---
 
 ## Overview
