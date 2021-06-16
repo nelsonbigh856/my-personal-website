@@ -13,8 +13,8 @@ main:
   - name: Skills
     url: '#skills'
     weight: 40
-  - name: Achievements
-    url: '#achievements'
+  - name: Achievementsfjklsad
+    url: '#achievementss'
     weight: 50
   - name: Posts
     url: '#posts'
