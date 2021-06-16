@@ -13,9 +13,11 @@ tags:
 categories:
   - Category 1
 image:
-  filename: featured
+  filename: 589126.jpg
   focal_point: Smart
   preview_only: false
+  caption: Your blog posts will look stunning, just like this image :D
+  alt_text: An image of a cityscape at night
 ---
 The Wowchemy CMS has many features to style your website articles.
 
