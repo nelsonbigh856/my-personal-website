@@ -1,7 +1,7 @@
 ---
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Pet at UNSW
+avatar_filename: avatar.jpg
+bio: I enjoy hanging around at UNSW and making friends with the humans.
 interests: []
 social:
   - icon: envelope
@@ -20,26 +20,25 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of New South Wales
+    url: https://www.unsw.edu.au/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Pest Control
+      institution: UNSW
+      year: 2019
+    - course: ME Criminology
+      institution: UNSW
+      year: 2015
+    - course: BSc Environmental Science
+      institution: UNSW
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 highlight_name: false
-title: Nelson Bighetti
+title: Frankie Fox
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Frankie and I am the Resident Pet at UNSW tending to over 60,000 students as their furry friend on campus. I sleep during the day and roam around at night, although most students leave campus by the time I wake up. Sometimes students offer me food and I gladly accept. I hope to see you on campus!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
