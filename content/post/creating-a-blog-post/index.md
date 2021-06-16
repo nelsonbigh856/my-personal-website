@@ -61,7 +61,7 @@ Let's bake a chocolate cake!
 
 * Flour
 * Sugar
-* Cocoa Powder
+* Cocoa Powder[^1]
 * Milk (dairy or soy)
 * Buttercream frosting
 
@@ -69,6 +69,8 @@ Let's bake a chocolate cake!
   * Vanilla Extract
   * Espresso Powder
 * Raspberries
+
+[^1]: May contain traces of nuts
 
 ## Links
 
@@ -102,3 +104,4 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
   <img src="argentina.jpg" alt="Cityscape" style="width:100%">
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
 </figure>
+
