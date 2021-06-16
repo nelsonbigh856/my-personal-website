@@ -17,6 +17,6 @@ content:
 widget_id: projects
 design:
   columns: "2"
-  view: 2
+  view: 3
   flip_alt_rows: false
 ---
