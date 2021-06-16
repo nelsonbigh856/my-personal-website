@@ -9,13 +9,45 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This is how to write up a blog post in the Wowchemy CMS.
+The Wowchemy CMS has many features to style your website articles.
 
 ## Formatting text
 
-Place **emphasis** on your text, or *italicise* it.
+Place emphasis on your text with **bold** or *italic*s.
 
-## Code snippets
+## Lists
+
+My favourite gelato flavours:
+
+1. Macadamia Crunch
+2. Cookies and Cream
+3. Rum and Raisin
+4. Matcha
+5. Coconut and Lychee
+
+Let's make a smoothie!
+
+- Milk
+- Honey
+- Strawberries
+- Blueberries
+- Weetbix
+
+
+## Code
+
+Include `code snippets` in your sentences.
+
+You can also write code blocks with syntax highlighting!
+
+```python
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello world!\n");
+    return 0;
+}
+```
 
 ## LaTeX Math
 
@@ -28,4 +60,4 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
  <figure>
   <img src="589126.jpg" alt="Cityscape" style="width:100%">
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
-</figure> 
+</figure>
