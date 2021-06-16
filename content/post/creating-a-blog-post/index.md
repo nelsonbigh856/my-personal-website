@@ -19,6 +19,8 @@ image:
   caption: Your blog posts will look stunning, just like this image :D
   alt_text: An image of a cityscape at night
 ---
+![]()
+
 The Wowchemy CMS has many features to style your website articles.
 
 ## Formatting text
@@ -70,3 +72,8 @@ $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
   <img src="argentina.jpg" alt="Cityscape" style="width:100%">
   <figcaption>Wowchemy allows you to link an image from your github repository.</figcaption>
 </figure>
+
+
+
+![alt text](argentina.jpg)
+*breathtakign maoutnians*
