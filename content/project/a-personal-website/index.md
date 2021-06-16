@@ -5,6 +5,8 @@ date: 2021-06-16T18:10:41.986Z
 summary: I made a website to show off my credentials and write about my projects. Enjoy!
 draft: false
 featured: false
+tags:
+  - software project
 external_link: https://github.com/nelsonbigh856/my-personal-website
 image:
   filename: featured.jpg
