@@ -14,7 +14,7 @@ main:
     url: '#skills'
     weight: 40
   - name: Achievementsfjklsad
-    url: '#achievementss'
+    url: '#achievements'
     weight: 50
   - name: Posts
     url: '#posts'
