@@ -16,7 +16,7 @@ item:
     description: Proposed a new bridge design.
     organization: UNSW Engineering Society
     organization_url: https://unswengsoc.com
-    title: 2nd Place: EngSoc Case Competition
+    title: 2nd Place - EngSoc Case Competition
     url: 
 widget_id: achievements
 headless: true
