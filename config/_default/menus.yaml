@@ -10,12 +10,6 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Skills
-    url: '#skills'
-    weight: 40
-  - name: Achievementsfjklsad
-    url: '#achievements'
-    weight: 50
   - name: Posts
     url: '#posts'
     weight: 60
