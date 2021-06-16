@@ -68,27 +68,10 @@ Let's bake a chocolate cake!
   * Espresso Powder
 * Raspberries
 
-## Checklists
+## Links
 
-\- \[x] Hang out the laundry
-- \[ ] Wash the dishes
-- \[ ] Mobius quiz wk3
-  - \[ ] Algebra
-  - \[x] Calculus
-- \[ ] 30min jog
-
-<!--StartFragment-->
-
-```markdown
-fjkldsjaf jkl
-fsafhdklsjafd
-saf
-dsa
-fd
-saf
-```
-
-<!--EndFragment-->
+[I'm an external link](https://www.google.com)
+[Another post]({{< relref "/getting-started" >}})
 
 ## Code
 
