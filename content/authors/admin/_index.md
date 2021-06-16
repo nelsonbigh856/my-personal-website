@@ -2,7 +2,10 @@
 role: Pet at UNSW
 avatar_filename: avatar.jpg
 bio: I enjoy hanging around at UNSW and making friends with the humans.
-interests: []
+interests:
+  - Patting
+  - Hibernation
+  - Friendly Biting
 social:
   - icon: envelope
     icon_pack: fas
