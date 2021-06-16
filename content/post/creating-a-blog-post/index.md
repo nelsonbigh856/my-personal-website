@@ -31,13 +31,19 @@ The Wowchemy CMS has many features to style your website articles.
 
 ## Emphasis
 
-Italics with _underscores_
+Italics with *underscores*
 
 Bold with **asterisks**
 
 Strikethrough with ~~double tilde~~
 
+## Blockquote
+
+> You miss 100 percent of the shots you never take.
+
 ## Lists
+
+### Ordered
 
 My favourite gelato flavours:
 
@@ -47,19 +53,18 @@ My favourite gelato flavours:
 4. Creme Brulee
 5. Coconut and Lychee
 
-Let's make a smoothie!
+### Unordered
 
-* Milk
-* Honey
-* Strawberries
-* Blueberries
-* Weetbix
+Let's bake a chocolate cake!
 
-## Blockquote
-> You miss 100 percent of the shots you never take.
-
-## Highlighted quote
-I like to be in the {{< h1 >}}spotlight{{< /h1 >}}.
+- Flour
+- Sugar
+- Cocoa Powder
+- Milk (dairy or soy)
+- Buttercream frosting
+  - Butter
+  - Vanilla Extract
+  - Espresso Powder
 
 ## Code
 
