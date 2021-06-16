@@ -40,7 +40,7 @@ Include `code snippets` in your sentences.
 
 You can also write code blocks with syntax highlighting!
 
-```python
+```C
 #include <stdio.h>
 
 int main(void) {
