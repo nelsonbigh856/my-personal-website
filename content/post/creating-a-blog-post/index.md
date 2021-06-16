@@ -21,6 +21,8 @@ image:
 ---
 The Wowchemy CMS has many features to style your website articles.
 
+{{< toc >}}
+
 # Heading 1
 
 ## Heading 2
@@ -70,8 +72,8 @@ Let's bake a chocolate cake!
 
 ## Links
 
-[I'm an external link](https://www.google.com)  
-[Another post]({{< relref "/getting-started" >}})
+[I'm an external link](https://www.google.com)\
+\[Another post]({{< relref "/getting-started" >}})
 
 ## Code
 
