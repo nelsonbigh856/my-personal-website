@@ -3,7 +3,10 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 weight: 55
 
-# ... Put Your Section Options Here (title etc.) ...
+title: Achievements
+subtitle: null
+design:
+  columns: "2"
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
