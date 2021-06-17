@@ -22,9 +22,9 @@ feature:
     icon_pack: custom
     name: AutoCAD
   - description: 
-    icon: SolidWorks-Logo
+    icon: photoshop-logo
     icon_pack: custom
-    name: SolidWorks
+    name: Adobe PhotoShop
   - description: 
     icon: oscilloscope-logo
     icon_pack: custom
