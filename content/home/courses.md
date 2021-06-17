@@ -34,7 +34,7 @@ item:
     date_start: '2018-10-01'
     date_end: ''
     description: ''
-  - organization: UNSW
+  - organization: UNSV
     organization_url: 'https://unsw.edu.au'
     title: PHYS1121
     url: 'https://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1121/'
