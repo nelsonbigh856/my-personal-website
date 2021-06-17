@@ -1,5 +1,6 @@
 widget: accomplishments
 headless: true  # This file represents a page section.
+weight: 55
 
 # ... Put Your Section Options Here (title etc.) ...
 
