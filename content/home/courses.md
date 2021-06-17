@@ -1,11 +1,12 @@
 ---
 widget: accomplishments
 headless: true  # This file represents a page section.
-weight: 55
 
 title: Courses
 design:
   columns: "2"
+weight: 55
+view: 1
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
