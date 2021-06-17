@@ -18,8 +18,8 @@ feature:
     icon_pack: fas
     name: Photography
   - description: 
-    icon: 
-    icon_pack: 
+    icon: Autodesk_Logo
+    icon_pack: custom
     name: AutoCAD
 widget_id: skills
 ---
