@@ -21,5 +21,13 @@ feature:
     icon: Autodesk_Logo
     icon_pack: custom
     name: AutoCAD
+  - description: 
+    icon: SolidWorks-Logo
+    icon_pack: custom
+    name: SolidWorks
+  - description: 
+    icon: oscilloscope-logo
+    icon_pack: custom
+    name: Oscilloscope
 widget_id: skills
 ---
