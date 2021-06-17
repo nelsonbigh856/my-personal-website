@@ -22,4 +22,6 @@ feature:
     icon_pack: custom
     name: AutoCAD
 widget_id: skills
+design:
+  columns: "2"
 ---
