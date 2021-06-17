@@ -5,7 +5,7 @@ experience:
   - title: Apprentice
     company: Randwick Pest Control
     company_url: ""
-    company_logo: unsw-logo
+    company_logo: unsw
     location: Randwick
     date_start: 2013-01-01
     date_end: "2018-03-25"
