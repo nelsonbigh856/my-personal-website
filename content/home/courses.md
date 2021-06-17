@@ -4,7 +4,6 @@ headless: true  # This file represents a page section.
 weight: 55
 
 title: Achievements
-subtitle: null
 design:
   columns: "2"
 
