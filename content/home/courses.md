@@ -3,7 +3,7 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 weight: 55
 
-title: Achievements
+title: Courses
 design:
   columns: "2"
 
