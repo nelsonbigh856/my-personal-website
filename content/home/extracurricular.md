@@ -20,7 +20,7 @@ experience:
   - title: IT Subcommittee
     company: UNSW Engineering Society
     company_url: "https://unswengsoc.com"
-    company_logo: engsoc
+    company_logo: engsoc-logo
     location: 
     date_start: 2013-01-01
     date_end: "2018-03-25"
@@ -37,4 +37,4 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Lots of responsibilities!
-  ---
+---
