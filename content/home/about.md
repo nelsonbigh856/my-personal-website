@@ -8,6 +8,6 @@ author: admin
 widget_id: about
 design:
   background:
-    gradient_start: "#0b293d"
-    gradient_end: "#344e74"
+    gradient_start: "#269fd0"
+    gradient_end: "#9ed4f0"
 ---
