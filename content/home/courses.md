@@ -1,3 +1,4 @@
+---
 widget: accomplishments
 headless: true  # This file represents a page section.
 weight: 55
@@ -38,3 +39,4 @@ item:
     date_start: '2018-10-01'
     date_end: ''
     description: ''
+---
